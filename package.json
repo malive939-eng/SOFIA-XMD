@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
-  "version": "4",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
+  "name": "Sofia_XMD",
+  "version": "1.0",
+  "description": "SOFIA XMD Whatsapp Bot Version 1.0| World Best Whatsapp Bot",
   "main": "queen.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start queen.js --deep-monitoring --attach --name Sofia_XMD",
+    "stop": "pm2 stop Sofia_XMD",
+    "restart": "pm2 restart Sofia_XMD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
