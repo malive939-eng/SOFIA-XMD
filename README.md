@@ -39,7 +39,7 @@ Sofia is simple Multi divece whatsapp bot in srilanka Made By Mr Liyo Base is tu
 ``` I am in no way responsible for any mistakes you may make !```
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=FFFF00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
 #### 𝙵𝚁𝙾 𝙼𝙾𝚁𝙴 
-+ [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/KYvD0uan1KKLUSTtMHV9vi) 
++ [`𝙹𝙾𝙸𝙽 𝙷𝙴𝙻𝙿 𝙶𝚁𝙾𝚄𝙿`](https://chat.whatsapp.com/LUx9Aorv8iS82ciQ8y3Mel?mode=ac_t) 
 + [`𝙲𝙾𝙽𝚃𝙰𝙲𝚃 𝙾𝚆𝙽𝙴𝚁`](https://wa.me/94740237746?text=From_SOFIY_XMD_Repo💃)
 
 #### ```TOTAL REPO VIEWS 🧚```
