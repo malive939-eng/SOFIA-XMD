@@ -2,14 +2,14 @@
 <div align="center">
   <img src="https://i.postimg.cc/rmykxKdj/pixlr-image-generator-689ea750aed9a8e28945f0f5.jpg" width="300" height="300">
   
-# 🧚 ◍ Queen Elisa MD - V2 ◍ 🧚
+# 🧚 ◍ SOFIA XMD - V1.0 ◍ 🧚
 <div align="center">
 Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is tuna bot. 
 
 <div align="left">
 
 
-### VISIT QUEEN ELISA WEBSITE
+### VISIT SOFIA XMD WEBSITE
 
 
 <a href="https://"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
@@ -24,7 +24,7 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 
 ##### [ᴡᴀᴛᴄʜ ᴠɪᴅᴇᴏ ʜᴏᴡ ʜᴏᴡ ᴛᴏ ᴍᴀᴋᴇ ʙᴏᴛ]()
 # 
-### FORK QUEEN ELISA REPO
+### FORK SOFIA CMD REPO
  <p align="left">
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-MD/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
 
@@ -49,8 +49,8 @@ Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Ba
 # 
  
 ``` THANKS TO  ALL HELPERS 💞```
-+ [𝚂𝙻 𝚁𝙴𝙰𝙻𝚃𝙴𝙲𝙷]() | Fro website
-+ [𝚂𝙰𝙽𝚄𝚆𝙰]()  | Helps
-+ [𝚃𝙷𝙸𝙽𝚄𝚁𝙰]()  | Helps
-+ [𝙸𝚂𝚄𝚁𝚄]() | Helps
++ [......]() | Fro website
++ [......]()  | Helps
++ [......]()  | Helps
++ [......]() | Helps
 
