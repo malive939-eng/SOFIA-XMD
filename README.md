@@ -4,7 +4,7 @@
   
 # 🧚 ◍ SOFIA XMD - V1.0 ◍ 🧚
 <div align="center">
-Queen Elisa is simple Multi divece whatsapp bot in srilanka Made By DarkMaker Base is tuna bot. 
+Sofia is simple Multi divece whatsapp bot in srilanka Made By Mr Liyo Base is tuna bot. 
 
 <div align="left">
 
