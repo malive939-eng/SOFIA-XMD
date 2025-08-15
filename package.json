@@ -2,9 +2,9 @@
   "name": "Sofia_XMD",
   "version": "1.0",
   "description": "SOFIA XMD Whatsapp Bot Version 1.0| World Best Whatsapp Bot",
-  "main": "queen.js",
+  "main": "Sofia.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Sofia_XMD",
+    "start": "pm2 start Sofia.js --deep-monitoring --attach --name Sofia_XMD",
     "stop": "pm2 stop Sofia_XMD",
     "restart": "pm2 restart Sofia_XMD"
   },
