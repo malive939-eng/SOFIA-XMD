@@ -164,7 +164,7 @@ async function connectToWA() {
           forwardingScore: 999,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: "120363299978149557@newsletter",
+            newsletterJid: "120363403152027526@newsletter",
             newsletterName: "© 𝐒𝐎𝐅𝐈𝐀-𝐗𝐌𝐃 💚",
             serverMessageId: 999,
           },
