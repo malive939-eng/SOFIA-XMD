@@ -29,7 +29,7 @@ Sofia is simple Multi divece whatsapp bot in srilanka Made By Mr Liyo Base is tu
 <a href="https://github.com/DarkMakerofc/Queen-Elisa-MD/fork"><img align="center" src="https://i.imgur.com/t1fC4oE.jpeg" alt="Fork and deploy" height="35" width="150" /></a>
 
 ### SESSION ID.. 
-<a href='0f64aee5-37d0-41f1-8ca8-06be51c9c971-00-c1657k6qut2e.sisko.replit.dev https://share.google/dHZgtDxOlvOUucJFA' target="_blank">
+<a href='SOFIA-XMD-Session-Id - Replit https://share.google/RhADYoUToCYQnDa1v' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
 
